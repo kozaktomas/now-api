@@ -22,5 +22,6 @@ GET http://localhost:8080/now
 ## Docker
 
 ```
-docker pull kozaktomas:now-api:latest
+# latest master image
+docker pull ghcr.io/kozaktomas/now-api:main
 ```
